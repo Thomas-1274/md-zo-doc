@@ -29,9 +29,13 @@
 
 需要提前安装
           pandoc
+          
           libreoffice
+          
           ODF-scan Zotero插件
+          
           Zotero 6版本
+          
           Word
           
 
